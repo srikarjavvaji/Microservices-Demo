@@ -7,7 +7,9 @@ trigger:
 - main
 
 pool:
-  name: 'Creatingpool-for test'
+  name: Default
+  demands:
+  - agent.name-equals SRIKARJAVVAJI
   
 
 variables:
