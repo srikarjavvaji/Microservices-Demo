@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'SRIKARJAVVAJI'
+  name: 'Creatingpool-for test'
   
 
 variables:
