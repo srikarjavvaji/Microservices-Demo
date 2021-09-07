@@ -6,7 +6,10 @@
 trigger:
 - main
 
-pool: Creatingpool-for test
+pool: 
+  name: Creatingpool-for test
+  vmImage: 'windows-latest'
+
   
 
 variables:
